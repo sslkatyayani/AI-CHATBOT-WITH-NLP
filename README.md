@@ -50,5 +50,7 @@ This project is a simple AI-powered chatbot built using *Python* and *Natural La
 
 ## Output
 
+![Image](https://github.com/user-attachments/assets/99b4c0b0-ae09-41e2-9c1d-55a9e820edb8)
+
 
 
